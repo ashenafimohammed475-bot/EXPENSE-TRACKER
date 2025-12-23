@@ -66,9 +66,11 @@ python main.py
 
 ## Screenshots
 
+## 📸 Screenshots
+
 ### Main Menu
 
-![Main Menu](screenshots/Mainmenu.png)
+![Main Menu](screenshots/menu.png)
 
 ### Adding an Expense
 
@@ -77,6 +79,10 @@ python main.py
 ### Category Summary
 
 ![Category Summary](screenshots/summary.png)
+
+### Highest Expense Alert
+
+![Highest Expense Alert](screenshots/highest_expense.png)
 
 Example:
 
